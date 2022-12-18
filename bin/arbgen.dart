@@ -1,6 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:arbgen/data/config.dart';
+import 'package:collection/collection.dart';
+import 'package:csv/csv.dart';
 import 'package:http/http.dart' as http;
 
 Future<String> getCsvData(String link) async {
@@ -11,24 +13,26 @@ Future<String> getCsvData(String link) async {
       .then(utf8.decode);
 }
 
-Map<String, List<String>> parseCsv(String csv) {
-  // Split the input string into lines
-  List<String> lines = csv.split('\n');
+List<String> getLocalesList(String csv) {
+  final rows = const CsvToListConverter().convert(csv);
+  final keys = rows.first;
+  return keys.skip(2).map((it) => it.toString()).toList();
+}
 
-  // Extract the keys from the first line
-  List<String> keys = lines[0].split(',');
+Map<String, List<String>> parseCsv(String csv) {
+  final rows = const CsvToListConverter().convert(csv);
+  final keys = rows.first;
 
   // Create a map to store the values for each key
-  Map<String, List<String>> result = {};
+  final result = <String, List<String>>{};
   for (String key in keys) {
     result[key] = [];
   }
 
   // Extract the values for each key from the remaining lines
-  for (int i = 1; i < lines.length; i++) {
-    List<String> values = lines[i].split(',');
+  for (final line in rows.skip(1)) {
     for (int j = 0; j < keys.length; j++) {
-      result[keys[j]]?.add(values[j] == '' ? '' : values[j]);
+      result[keys[j]]?.add(line[j] == '' ? '' : line[j]);
     }
   }
 
@@ -40,13 +44,13 @@ void main() async {
 
   if (config == null) return;
 
-  final locales = config.locales;
-
   print("Fetching data...");
   final csvText = await getCsvData(config.csvLink);
 
   print("Parsing data...");
   final response = parseCsv(csvText);
+
+  final locales = getLocalesList(csvText);
 
   final keysLength = response["key"]?.length ?? 0;
 
@@ -68,12 +72,14 @@ void main() async {
   }).toList();
 
   // Generate the .arb file content
-  String getArbContent(String locale) => rows.map((row) {
-        final key = row['key'] as String;
-        final description = row['description'] ?? "";
-        final text = row[locale] ?? "";
+  String getArbContent(String locale) {
+    final lastIndex = rows.length - 1;
+    return rows.mapIndexed((index, row) {
+      final key = row['key'] as String;
+      final description = row['description'] ?? "";
+      final text = row[locale] ?? "";
 
-        //TODO Check if the key represents a plural
+      //TODO Check if the key represents a plural
 //     if (key.startsWith('@')) {
 //       final pluralKey = key.substring(1);
 //       return '''
@@ -84,28 +90,29 @@ void main() async {
 // }''';
 //     }
 
-        // Check if the value contains placeholders
-        final placeholders = <String, Object>{};
-        final pattern = RegExp(r'\{(.+?)\}');
-        final matches = pattern.allMatches(text);
-        for (final match in matches) {
-          final placeholder = match.group(1);
+      // Check if the value contains placeholders
+      final placeholders = <String, Object>{};
+      final pattern = RegExp(r'\{(.+?)\}');
+      final matches = pattern.allMatches(text);
+      for (final match in matches) {
+        final placeholder = match.group(1);
 
-          if (placeholder == null) continue;
-          placeholders[placeholder] = {};
-        }
+        if (placeholder == null) continue;
+        placeholders[placeholder] = {};
+      }
 
-        // Generate the .arb entry
+      // Generate the .arb entry
 
-        final encodedPlaceholders = jsonEncode(placeholders);
+      final encodedPlaceholders = jsonEncode(placeholders);
 
-        return '''
+      return '''
 "$key": "$text",
 "@$key": {
   "placeholders": $encodedPlaceholders,
   "description": "$description"
-},''';
-      }).join('\n');
+}${lastIndex != index ? "," : ""}''';
+    }).join('\n');
+  }
 
   // Make final .arb context for single file
   String arb(String locale) {

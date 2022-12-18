@@ -1,10 +1,14 @@
-{ "dates.weekday.monday": "",
-"@dates.weekday.monday": {
-  "placeholders": {},
-  "description": "Описание"
-},
-"hello": "",
-"@hello": {
-  "placeholders": {},
-  "description": "Hello"
-}, }
+{
+  "dates.weekday.monday": "Понедельник",
+  "@dates.weekday.monday": {
+    "placeholders": {},
+    "description": "Описание"
+  },
+  "hello": "Hello, {username}!",
+  "@hello": {
+    "placeholders": {
+      "username": {}
+    },
+    "description": "Hello"
+  }
+}
