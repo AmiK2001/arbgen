@@ -1,14 +1,15 @@
-{
-  "dates.weekday.monday": "Monday",
-  "@dates.weekday.monday": {
-    "placeholders": {},
-    "description": "Описание"
-  },
-  "hello": "Hello, {username}!",
-  "@hello": {
-    "placeholders": {
-      "username": {}
-    },
-    "description": "Hello"
-  }
-}
+{ "secretRoom": "Secret room",
+"@secretRoom": {
+  "placeholders": {},
+  "description": "Title for app bar in dev page"
+},
+"welcome": "Welcome",
+"@welcome": {
+  "placeholders": {},
+  "description": ""
+},
+"yourMeditivity": "Your {appName}",
+"@yourMeditivity": {
+  "placeholders": {"appName":{}},
+  "description": ""
+} }

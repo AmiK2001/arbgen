@@ -79,6 +79,8 @@ void main() async {
       final description = row['description'] ?? "";
       final text = row[locale] ?? "";
 
+      if (text.isEmpty) return "";
+
       //TODO Check if the key represents a plural
 //     if (key.startsWith('@')) {
 //       final pluralKey = key.substring(1);
