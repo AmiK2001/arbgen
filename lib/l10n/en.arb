@@ -1,0 +1,10 @@
+{ "dates.weekday.monday": "Monday",
+"@dates.weekday.monday": {
+  "placeholders": {},
+  "description": "Описание"
+},
+"hello": ""Hello",
+"@hello": {
+  "placeholders": {},
+  "description": "Hello"
+}, }

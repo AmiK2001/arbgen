@@ -1,0 +1,14 @@
+name: arbgen
+description: Command-line application for generating .arb localizations for Meditivity/Essence.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.18.6 <3.0.0"
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+dependencies:
+  collection: ^1.16.0
+  csv: ^5.0.1
+  http: ^0.13.5

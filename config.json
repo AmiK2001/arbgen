@@ -1,0 +1,8 @@
+{
+    "csvLink": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQERyxcuceKCMCBi6JKRpAhNR2KM4lifpYgUUIO1Lg0WkIwWLvKs5QZfnTt0nmXcHq_klEDbxzmHqsC/pub?gid=0&single=true&output=csv",
+    "outputFolder": "lib/l10n",
+    "locales": [
+        "en",
+        "ru"
+    ]
+}
