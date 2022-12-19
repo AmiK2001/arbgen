@@ -76,8 +76,8 @@ void main() async {
     final lastIndex = rows.length - 1;
     return rows.mapIndexed((index, row) {
       final key = row['key'] as String;
-      final description = row['description'] ?? "";
-      final text = row[locale] ?? "";
+      final description = (row['description'] ?? "").replaceAll("\n", r"\n");
+      final text = (row[locale] ?? "").replaceAll("\n", r"\n");
 
       if (text.isEmpty) return "";
 
