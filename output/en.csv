@@ -1,0 +1,943 @@
+key,description,en
+secretRoom,,Secret room
+welcome,,Welcome
+letsGetStarted,,"Let's get started with {appName} and see how it can help you in achieving your goals, developing habits, managing your time and energy."
+letsContinie,,Let's continue your journey with {appName}.
+yourMeditivity,,Your {appName}
+welcomeToMeditivity,,Welcome to {appName}
+singInWithGoogle,,Sign in with Google
+singInWithApple,,Sign in with Apple
+singInWithFacebook,,Sign in with Facebook
+connectWithEmail,,Connect with Email
+restoreSubscription,,Restore subscription
+community,,Community
+profile,,Profile
+settings,,Settings
+accountDetails,,Account Details
+feedback,,Feedback
+visitMeditivity,,Visit {appSite}
+email,,Email
+signUp,,Sign Up
+logIn,,Log In
+logOut,,Log out
+ok,,Ok
+emailIsInvalid,,Email is invalid
+forgotYourPassword,,Forgot your password?
+confirmEmailMessage,,"We've all been there, please confirm your email and we'll send you a reset link."
+resetPasswordMessage,,We've sent you an email with a link to reset your password.
+anAccountAlreadyExist,,An account with this email already exists. Please log in as you did before to verify your account.
+and,,and
+termOfUse,,Terms of Use
+privatePolicy,,Privacy Policy
+bySigningInYouAgree,,By signing in you agree to
+typeYourEmail,,Type your email
+typeInYourPassword,,Type in your password
+skip,,Skip
+gladToSeeYouAgain,,Glad to see you again
+letsSetUpAnAccount,,Let's set up an account
+logOutConfirmedDialog,,Stay in to keep your progress.
+subscriptionDetails,,Subscription details
+myDay,,My Day
+task,,Task
+habit,,Habit
+goal,,Goal
+note,,Note
+toDo,,To-Do
+tasks,,Tasks
+habits,,Habits
+goals,,Goals
+spheres,,Spheres
+done,,Done
+notes,,Notes
+mindfulness,,Mindfulness
+meditation,,Meditation
+sounds,,Sounds
+sleep,,Sleep
+courses,,Courses
+progress,,Progress
+statistics,,Statistics
+achievements,,Achievements
+tips,,Tips
+add,,Add
+added,,Added
+gotIt,,Got it
+iGotIt,,I got it!
+begin,,Begin
+commit,,Commit
+cancel,,Cancel
+complete,,Complete
+edit,,Edit
+delete,,Delete
+share,,Share
+accomplish,,Accomplish
+deleteHabit,,Delete Habit
+deleteGoal,,Delete Goal
+deleteTask,,Delete Task
+work,,Work
+health,,Health
+familyAndHome,,Family & Home
+finance,,Finance
+personalGrowth,,Personal Growth
+impact,,Impact
+recreation,,Recreation
+social,,Social
+other,,Other
+sortByABC,,ABC
+sortByActivity,,Activity
+sortByPriority,,Priority
+sortByTime,,Time
+sortByDateAndTime,,Date & Time
+sortByTargetDate,,Target Date
+sortByLifeSpheres,,Life Sphere
+resetSort,,Reset Sort
+lifeSpheres,,Life spheres
+focus,,Focus
+melodies,,Melodies
+programs,,Programs
+custom,,Custom
+templates,,Templates
+buildHabit,,Build
+breakHabit,,Break
+general,,General
+plan,,Plan
+diary,,Diary
+onboardingCustomGoal,,With {appName} it's easy to customize any goal to fit your needs.
+onboardingCustomHabit,,With {appName} it's easy to customize any habit to fit your needs.
+acceptedGoalHeader,,Go for it!
+acceptedHeader,,Way to go!
+completedGoalSubheader,,You achieved the goal!
+completedHabitHeader,,You've conquered the habit
+inProgressAchievementTitle,,You rock! 👏
+initialAchievementSubtitle,,You've almost mastered that.
+inProgressAchievementSubtitle,,You've almost mastered that.
+completedAchievementSubtitle,,on your new achievement!
+notesPlaceholder,,"The place for a daily journal, gratitudes, ideas, and insights."
+acceptedDialogConfirmButton,,Great
+timerCompleted,,Well done for staying focused! Time for a break.
+breakCompleted,,Time to focus on getting things done!
+unguidedMeditationCompleted,,Unguided is completed.
+soundCompleted,,The session is ended.
+quitCurrentFocusDialog,,Are you sure you want to end focus in advance?
+endFocusDialog,,Are you sure you want to end the current focus?
+endMeditationDialog,,Are you sure you want to end the current meditation?
+updateGoalEntitiesDialog,,You're changing the starting date. Do you want to update related tasks and habits accordingly?
+updateGoalTargetDateAndEntitiesDialogTitle,,You're changing the starting date
+updateGoalTargetDateAndEntitiesDialog,,Do you want to update the goal's target date and starting dates of related tasks and habits accordingly?
+confirmGoalEditDialogTitle,,Are you sure you want to edit these attributes?
+confirmGoalEditDialog,,Changing these attributes will affect the process of achieving the goal.
+migrationFailureTitle,,Sync is failed
+migrationFailureMessage,,"The update to the latest version went unsuccessful. Please check your internet connection and restart the app. If the error occurs again, contact the support team."
+breakAdvice1,,Do 5-minute full-body stretching that your body needs
+breakAdvice2,,Get up and walk around to feel more energized
+breakAdvice3,,Do a short {appName} breathing exercise to boost energy
+breakAdvice4,,Do a quick 5-minute clean-up to enjoy the space around you.
+breakAdvice5,,Treat yourself with a healthy snack like fruit or veggie sticks.
+breakAdvice6,,Go outside or step out to the balcony to soak in the sun and get a new perspective.
+breakAdvice7,,Open a window to get some fresh air and clear your mind.
+breakAdvice8,,Listen to a motivational or cheerful song.
+breakAdvice9,,Do some food preparation for dinner – you’ll be surprised how much you can do in a few 5 min chunks of time.
+breakAdvice10,,Declutter your workspace to reduce stress and create a sense of calm.
+breakAdvice11,,Take out the trash to make your place fresher.
+breakAdvice12,,Change that lightbulb that's needed changing (or any other small task that needs doing).
+breakAdvice13,,Meditate to improve your concentration for the next focus sessions.
+breakAdvice14,,Fold laundry or throw a load of laundry into the washer.
+breakAdvice15,,"Clean your phone, keyboard, and glasses."
+breakAdvice16,,Make a cup of warm tea or coffee.
+breakAdvice17,,Review your progress over the last 25 minutes.
+breakAdvice18,,Plan what you are going to do in the next 25 minutes.
+breakAdvice19,,Complete a short habit from your tracking list.
+breakAdvice20,,"Do 30 seconds of as many press-ups, burpees, and sit-ups as you can."
+breakAdvice21,,"Do a plank pose, if you can stay in this pose only for a short time, make two trips."
+breakAdvice22,,Call a friend to share something good and positive.
+breakAdvice23,,Read an article you tend to put off.
+breakAdvice24,,Watch a motivational TED video to feel more inspired.
+breakAdvice25,,Have a glass of water. Hydration improves your brain function and boosts skin health.
+breakAdvice26,,"Make some easy office exercises, it will boost your energy."
+breakAdvice27,,"Close the eyes. Slowly move the eyes upward, then downward. Repeat 3 times. Slowly move the eyes to the left, then to the right. Repeat 3 times."
+breakAdvice28,,"Palms for relaxation. Gently cup your palms over your closed eyes until all the afterimages fade to black, about 30 sec."
+breakAdvice29,,Imagine a big number 8 turned on its side about 10 feet in front of you. Slowly sketch it with your eyes several times. Then go the other direction.
+breakAdvice30,,Roll your eyes. Look right and left several times without moving your head. Then look up and down several times.
+connectWithSubtitle,,"Sign in to track your progress, use the app on multiple devices, and keep your information safe."
+signUpSubtitle,,To use {appName} on multiple devices and keep your information safe.
+signInSubtitle,,Please enter your email and password to get in
+emptyFields,,Please fill out all required fields and try again
+noInternetConnection,,No internet connection. Please enable wifi or mobile internet and try again.
+emptyTasksCalendarDay,,Press add to plan something great for this day.
+emptyGoalsCalendarDay,,Press add to plan something great for this day.
+emptyNotesCalendarDay,,Press add to plan something great for this day.
+myDayEmptyToday,,"What do you get to do today?
+Press + to add a note, task, habit, or goal."
+myDayEmptyPast,,Make a to-do list to keep track of your progress and achieve more.
+myDayEmptyFuture,,"Plan something great for this day.
+Press + to add a note, task, habit, or goal."
+myDayAllCompletedToday,,"You're doing an awesome job!
+Want to schedule anything else?"
+myDayAllCompletedPast,,"You've completed all tasks.
+Keep up the good work!"
+myDayAllCompletedFuture,,"Great job!
+Want to schedule anything else?"
+emptyTasks,,Jot down your tasks and focus on getting them done!
+emptyGoals,,Set a goal or project. Any ambitious dream is achievable with a solid plan.
+emptyHabits,,What you do every day has the most impact on your life.
+emptySphere,,"Tie tasks, habits, and goals to spheres to visualize your life balance."
+emptyDone,,"Track your progress. All completed tasks, habits and goals in one place."
+emptyPlan,,Break down your goal into actionable steps.
+emptyCourses,,Educational courses on soft skills will be added soon.
+emptyAchievements,,Achievements keep you motivated by tracking progress.
+emptyTips,,We will add tips on improving your productivity and wellbeing soon.
+communityTabPlaceholder,,We're working on building a community for you.
+emptyStatisticsLifeSpheres,,Track balance in a life spheres wheel and notice spheres which require more attention.
+emptyStatisticsGoals,,Take a look at the progress towards your goals.
+emptyStatisticsHabits,,Keep tracking your consistency in building habits.
+emptyStatisticsTasks,,See how well you getting tasks done.
+emptyStatisticsFocus,,Notice how much time you concentrated on tasks.
+emptyStatisticsMeditation,,Every mindful minute counts and contributes to your well-being.
+deleteGoalWarning,,All tasks and habits attached to the goal will be deleted.
+completeGoalWarning,,All tasks attached to this goal will be completed. The habits will remain tracked.
+deleteHabitWarning,,The tracking will be stopped and your activity history for the whole period will be deleted.
+completeHabitWarning,,The tracking will be stopped and your activity history will be saved.
+deleteTaskWarning,,All recurring tasks will be deleted.
+completeTaskWarning,,All recurring tasks will be completed.
+cancelSingleMeditationWarning,,The meditation will be deleted from your calendar. You can add it again later.
+cancelRecurringMeditationWarning,,Do you want to save the history of completed sessions in your progress?
+buildHabitProgress0,,Use a scientific approach for habit formation to rewire your brain.
+buildHabitProgress25,,"Create context for your habit - specify time, place, and routine."
+buildHabitProgress50,,Use reminders as cues that initiate the behavior and set other details.
+buildHabitProgress100,,"These answers fuel your motivation, help lower stress, stay focused, free up time and increase chances to succeed."
+breakHabitProgress0,,Replace a habit you want to break with something healthy. Use the urge for a bad habit as a trigger to develop a good one.
+breakHabitProgress25,,"Create context for your habit - specify time, place, and routine."
+breakHabitProgress50,,Use reminders as cues that initiate the behavior and set other details.
+breakHabitProgress100,,Be mindful and aware about your addiction. Notice the urge - get curious - find the root - feel the joy of letting go - repeat.
+goalDescriptionHint,,"Add description, details and motivation. Why is this goal important to you?"
+taskNoteHint,,Jot down details or motivation to complete the task.
+buildHabitDescriptionHint,,"How will this habit bring value to your life? Write your motivation and add details. What are the exact actions you plan? E.g., for morning exercise, you can jot down 1m plank, 30 push-ups, 30 squats and so on."
+buildHabitLocationHint,,"Think in detail where will you do this habit - your bedroom, kitchen, office or elsewhere. The more detailed plan you have, the clearer and easier it becomes for your brain to support a new action."
+breakHabitDescriptionHint,,"Jot down the reasons why is it important to quit this negative habit. How does it damage your health, family, self-esteem or quality of life?"
+breakHabitBreakTheSpellHint,,"Go ahead and do what you have urge to, but this time be curious about the process. Move from knowledge to the feeling that you experience. Write it down. E.g. mindful smoking can show you that it's a stinky process."
+habitsTodoTip,,"    In this tab, you can track all your habits. Tap on a habit to see its details and progress. You can mark habits done and undo them by pressing the circle icons. When you mark a habit completed, your streak goes up. Use reminders and triggers so you won't miss a day.
+    Swipe a habit to the right in the ""My day"" tab to mark it done only for that day. If you swipe it to the right in the ""To-do"" tab, it will be accomplished for good. Use this when you feel the habit is on autopilot and you don't need to track it anymore."
+spheresTodoTip,,"    {appName} helps you take a look at the bigger picture of your life. All goals, habits, and tasks are related to a chosen sphere. You don't have to pursue equal balance in all areas, but dedicating your time and energy towards more than just one sphere will make your life more stable, enjoyable, and fulfilling.
+    Pay attention to health, family, work, and contribute to your personal growth as well as the greater good. Living a versatile life leads to harmony and well-being."
+buildHabitTip,,"    The habit builder is based on cutting edge research in cognitive science. The more fields you fill in, the easier it will be to stick to new behavior.
+    We suggest that you use a habit loop to build desired routines. The habit loop has 3 steps - cue (trigger), routine, and reward. So find the right trigger for your new habit, describe the routine including mindset and challenges, and determine the ideal reinforcement... and this time you'll nail it!"
+breakHabitTip,,"    The decision to change a behavior takes place in the prefrontal cortex, the area of planning. But the automatic behavior of the habit itself is stored in another area - the basal ganglia. That is why the habit-breaking process can be difficult.
+    You will need to give your brain some time to adjust. The most effective way to break a bad habit is to replace it with a good one. As you see rewards gradually begin to accumulate from the new, good habit — the desire to continue this behavior will outweigh the desire to pursue the old habit."
+customGoalTip,,"    Use two great goal-setting frameworks that will move you from dreaming and planning towards reaching your goals:
+    • SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound)
+    • OKR (Objectives and Key Results)
+    Divide big goals into parts and then into tasks and habits. Keep in mind that the better you describe your goal, the clearer it becomes for your brain, which drives your motivation."
+focusTimerTip,,"    This focus timer is based on the Pomodoro technique. It's a simple tool to manage time and avoid distractions.
+    1. In the ""My day"" tab choose any tasks you'd like to get done.
+    2. Set a 25-min timer or adjust the time to your needs.
+    3. Concentrate on the task until the timer rings.
+    4. Take a short break and get inspiration from the break tips.
+    5. Every 4 pomodoros, take a longer break (15-30 min)."
+myDayHabitsTip,,"    Once we decide to change our lifestyle, we often want to tackle all of our dreams and problems at once. But working on too many habits simultaneously is not an easy task. It's also not productive and might lead you to drop all habits altogether. So start small and let this process be a challenging yet pleasant journey, not a race."
+onboardingSpheresTip,,"    {appName} helps you take a look at the bigger picture of your life. All goals, habits, and tasks are related to a chosen sphere. You don't have to pursue equal balance in all areas, but dedicating your time and energy towards more than just one sphere will make your life more stable, enjoyable, and fulfilling.
+    Pay attention to health, family, work, and contribute to your personal growth as well as the greater good. Living a versatile life leads to harmony and well-being."
+onboardingGoalsTip,,"    Setting goals and achieving them is the set of cognitive skills that can be practiced. SMART goals help people define and implement intentions in any sphere - health, business, or education. The SMART criteria incorporate guidance and realistic direction in goal setting, which increases motivation and leads to better lasting results. For example, simply wanting to get in shape is too vague. Aim to fit it to the SMART criteria and make a more clear objective like take a walk for 30 min 5 times per week, for a month."
+onboardingHabitsTip,,"    Habits are filling up about 45% of our daily activities - almost half of our lives we run on autopilot! Whether your goal is to develop a good habit or break a bad one, it takes some time for your brain to build new neural connections. Brain science suggests tying new habits to triggers, actions that you are already used to. For example, you can meditate every morning right after brushing your teeth. It will strengthen the neural pathways and with every repetition, your brain will require less effort to perform the right behavior."
+onboardingMindfulnessTip,,"    Regular practice lowers your stress, helps build good relationships, improves focus and sleep, and even physical health. Harvard study shows that taking a few minutes to focus your mind each day can reduce pain, depression, and more.
+    The beauty and simplicity of meditation are that you don't need any equipment. Built-in mindfulness tools will help you make it a daily habit and you’ll notice the first changes in your mood, productivity, and stress level within just a couple of weeks of regular practice."
+descriptionHabitTip,,"    A habit and a routine are both repeated regular activities. The distinction is that habits run on autopilot and routines are intentional. For instance, having coffee might be something you do every morning without awareness but doing morning exercise requires intention and effort.
+First, you need to hone and practice your routine and after sticking to it the habit-forming process will become automatic. The better you describe what action you want to perform, why, when, and under what circumstances, the bigger your chances to succeed. The human brain doesn't like uncertainty, so your desire ""I want to read more"" is unlikely becomes a habit while ""I will read for 30 min every night after dinner"" will."
+descriptionGoalTip,,"   Scientists Yukl and Latham published research on interconnections between goal-setting and individual personality factors. It revealed that:
+    • Participants with difficult goals achieved greater success than others.
+    • Participants with higher self-esteem did better on task accomplishments.
+    • Participants with a greater understanding of why the goal was necessary for them had more chances of being successful with the target plans.
+    So dedicate some time to describe your goal in detail and it would help you to achieve it."
+keyResultsGoalTip,,"   OKR (Objectives and Key Results) is the best goal-setting technique that consists of the two basic parts:
+    1. The Objective is a qualitative goal that tells you what you want to achieve.
+    2. The Key Results are quantitative and define how you’ll know if you have achieved them.
+    John Doerr’s who introduced Google to OKRs, offered the best formula for setting them: 
+    I will (Objective) as measured by (This set of Key Results).
+    Set and review your goals quarterly."
+repetitionAndTriggersHabitTip,,"   As a certain behavior is repeated multiple times, the neural connections in the brain form and become stronger. Therefore, with every repetition, our brain needs less effort to perform a habit. The habit loop coined by Charles Duhigg explains the habit formation process as a series of steps - trigger (or cue), craving, habit, and reward. The trigger for a habit can be anything that drives it such as a preceding action, an existing habit like brushing teeth, a location, a time of day, other people, or an emotional state. E.g. you can meditate every morning right after turning off the alarm."
+remindersHabitTip,,"   Benjamin Gardner, a habit researcher and senior lecturer in psychology at King’s College London, states that when it comes to new habits, forgetting is a big issue that is why planning ahead and setting up reminders is a good idea. 
+    Reminders for implementation intentions will increase their activation in declarative memory, but activation will decay as time goes by since those reminders were attended. So at the begging of formation a new habit, it's a great and the easiest tool to stay on track."
+prepareForSuccessHabitTip,,"   When you start a journey of adopting a new habit, you need to set your mindset and think in advance about how you overcome challenges. We are only humans and can't perform to the fullest all the time. 
+    The Two-Day Rule comes to the rescue. Never skip the thing you're trying to accomplish more than two days in a row - don’t slack off too much and often.
+    Let's say, you want to run. One day it's raining and you don't go. But the next day, you need to find a way to do this run - even if it means going to a gym instead of a park or buying a waterproof outfit. Once you get used to hitting your habits, you will do everything in your power not to miss two days in a row and break the chain."
+prepareForSuccessGoalTip,,"   Your overall mindset dictates your success or failure and how you cope with challenges. Psychologists Daniel Gilbert and Timothy Wilson identify the key to setting goals is a better understanding and predicting your emotions, including how they’ll change over time, how external events will affect them, and how they’ll impact things like personal productivity.
+    Coaching questions in this section will help you work through any goal, set priorities, overcome doubts and challenges, and find support."
+detailsHabitTip,,"   The human brain likes clarity therefore if you want to develop a habit, you should describe it as precisely as possible.
+    Add all relevant details, it will help you find focus and direction and build a solid daily routine."
+statisticsHabitTip,,"   The process of building habits is all about consistency. Tracking your habits and measuring the progress help you correct your behavior, find areas for improvements, and celebrate the results. Research has shown that people who track their progress on goals like losing weight are all more likely to improve than those who don’t. The calendar keeps you accountable, when you see your streak, you’ll be reminded to act again. Also, tracking feels rewarding. It is great to watch your results grow and it boosts your motivation."
+statisticsGoalTip,,"   If you are trying to achieve a goal, the more often that you monitor your progress, the greater the likelihood that you will succeed, according to research published by the American Psychological Association.
+    Your chances of success are even more likely if you report your progress publicly or physically record it. Feel free to share your progress with friends and focus your attention on the goal to keep it at the top of your mind."
+back,,Back
+backToolTip,,Tap on the Back sign to return to the My day screen and start getting things done 💪
+pomoTimer,,Pomo Timer
+pomoTimerToopTip,,Use the Pomo timer (alternate 25 min work phases with 5 min breaks) to boost productivity and concentration.
+guidedGoals,,Guided Goals
+guidedGoalsToolTip,,Let's start with a guided goal program. Later you can add any custom goal using the tool designed by neuroscientists 🧠
+create,,Create
+createToolTip,,"Tap on + to create a note, task, habit, or goal 🎯"
+createAGoal,,Create a Goal
+createAGoalToolTip,,Let's create the first goal to start your self-improvement journey 🚀
+commitGoalToolTip,,Commit to a goal with one click and all tasks and habits will be distributed through your to-do list ✅
+icons,,Icons
+iconsToolTip,,"To distinguish icons of habits and tasks, keep in mind that tasks are square and the habits are round."
+swipes,,Swipes
+swipesToolTip,,Swipe the card to the right to complete or swipe it to the left to edit or delete.
+goalDeleted,,Goal Deleted
+habitDeleted,,Habit Deleted
+habitCompleted,,Habit Completed
+habitCompletedForDay,,Today’s habit is completed
+accomplishHabit,,Accomplish Habit
+meditationCompleted,,Meditation Completed
+deleteMeditation,,Delete Meditation
+deleteRecurringMeditation,,Delete Recurring Meditation
+meditationDeleted,,Meditation Deleted
+meditationScheduled,,Meditation Scheduled
+meditationRescheduled,,Meditation Recheduled
+taskSavedInUpcomingToDo,,Task Saved in Upcoming To-Do
+taskRescheduled,,Task Rescheduled
+warning,,Warning
+warningCompletedTask,,This task is completed. Please incomplete the task to edit its attributes.
+taskCompleted,,Task Completed
+taskCompletedForDay,,Task Completed for Day
+taskAccomplished,,Task Accomplished
+taskDeleted,,Task Deleted
+accomplishTask,,Accomplish Task
+taskCreated,,Task Created
+primaryTaskOrHabitOfTheDay,,Primary task or habit of the day
+dragAnyTaskOrHabitIntoThisArea,,Drag any task or habit into this area
+completed,,Completed
+date,,Date
+today,,Today
+tomorrow,,Tomorrow
+yesterday,,Yesterday
+goalAchieved,,Goal Achieved
+congratulations,,Congratulations
+goalTitleHint,,Goal Title
+statisticsGoalDescription,,
+programDescriptionGoal,,Program Description
+keyResults,,Key Results
+keyResult,,Key Result
+prepareForSuccess,,Prepare for Success
+whatIsThePriceHeader,,What is the price?
+whayIsThePriceHint,,"What are you willing to sacrifice in order to achieve this goal? E.g., after work, instead of watching TV series, dedicate 2 hours to starting your own business or writing a book."
+whatArePossibleObstaclesHeader,,What are possible obstacles?
+obstaclesHint,,Think in advance what might get in your way and how you can overcome it. It will lower the stress and increase your chances to succeed.
+undo,,Undo
+undoAccomplish,,Undo accomplish
+undoAccomplishMessage,,All tasks attached to the goal will be uncompleted.
+accomplishGoal,,Accomplish Goal
+copy,,Copy
+emptyGoalPlanPlaceholder,,"Add tasks and habits to this goal.
+With an action plan, you’ll have a clear idea of how to get where you want to go."
+advanceStepCreationProgress,,What actions should I undertake? Create a plan of tasks and habits you need to accomplish in order to achieve a goal.
+advanceStepHeader,,Advance stage - create a plan
+enhancedStepCreationProgress,,How do I know I’m getting there? Set quantifiable and time-bound metrics that measure if the goal is achieved.
+enhancedStepHeader,,Enhanced stage - set key results
+enhanced,,Enhanced
+primary,,Primary
+advanced,,Advanced
+ultimate,,Ultimate
+primaryStepCreationProgress,,"Make it SMART. The better you describe a goal, the more achievable it becomes."
+primaryStepHeader,,Primary stage
+name,,Name
+hintTextName,,"e.g., Learn a new language"
+description,,Description
+startingDateText,,Starting date
+targetDateText,,Target date
+ultimateStepCreatingProgress,,"Answers to these questions help lower your stress, stay focused, free up time and increase chances to succeed."
+ultimateStepHeader,,Ultimate stage - prepare for success
+goalAchiever,,Goal Achiever
+missingStep,,Missing step
+missingStepTitleIconAndSphere,,Please add goal title and select icon and sphere for your goal to proceed.
+missingStepTitleAndIcon,,Please add goal title and select icon for your goal to proceed.
+missingStepTitleAndSphere,,Please add goal title and select sphere for your goal to proceed.
+missingStepTitle,,Please add goal title to proceed.
+missingStepIcon,,Please select icon for your goal to proceed.
+missingStepSphere,,Please select sphere for your goal to proceed.
+editGoal,,Edit Goal
+learnMore,,Learn more
+by,,By
+part,,Part
+extraHabitsAndTasks,,Extra habits and tasks
+extraPart,,extra Part
+upcoming,,Upcoming
+joinUs,,Join us!
+insteadOf,,Instead of
+habitBreakTitleHint,,Habit Break Title
+habitDescription,,Habit Description
+repetitionAndTriggers,,Repetition & Triggers
+timesPerDay,,Times per day
+inThe,,in the
+at,,at
+reminders,,Reminders
+reminder,,Reminder
+reminderTime,,Reminder time
+location,,Location
+breakTheSpell,,Break the spell
+details,,Details
+mindset,,Mindset
+buildAHabit,,Build a Habit
+breakAHabit,,Break a Habit
+what,,What
+whatStepText1,,It helps track time you dedicate to every goal or sphere and keep balance in life.
+whatStepText2,,The habit is tied to the chosen goal
+breakHabitHint,,"Habit I Want to Break (e.g., Smoking)"
+replacementHabitHint,,"Replacement habit (e.g., Drink water)"
+when,,When
+startingTime,,Starting Time
+habitBuilder,,Habit Builder
+error,,Error
+erroCustomHabitMessage,,Please add title for your habit to proceed
+missingStepBreakTitle,,Please add break title for your habit to proceed
+missingStepHabitIcon,,Please select icon for your habit to proceed
+missingStepSphereOrGoal,,Please select sphere or goal for your habit to proceed
+editHabit,,Edit Habit
+googleCalendarSyncDisabled,,Google calendar sync disabled
+googleCalendarSyncDisabledMessage,,This habit is not syncable with Google calendar due to missed starting time or large number of reminders (more than 5).
+duration,,Duration
+valueAndUnit,,Value & Unit
+statisticsHabitDescription,,
+habitTitleHint,,Habit Title
+select,,Select
+ofSuffix,,of
+onboardingChooseSphereTitle,,"Choose 3 spheres
+you want to improve first"
+onboardingChooseSphereSubtitle,,"Take a look at the bigger picture of your life.
+Life balance leads to well-being. "
+next,,Next
+onboardingFirstPageTitle,,Get more done and be happy
+onboardingFirstPageSubtitle,,"Start a better life with {appName} today.
+Move forward without a burnout."
+onboardingFirstPageAdvantage1Title,,All-in-one
+onboardingFirstPageAdvantage1Subtitle,,"Life Spheres, SMART Goals, Habits, Tasks, Subtasks, Reminders, Calendar and more."
+onboardingFirstPageAdvantage2Title,,Scientific Approach
+onboardingFirstPageAdvantage2Subtitle,,"Habit loop and triggers, CBT & Mindfulness techniques, GTD, Pomo timer, etc."
+onboardingFirstPageAdvantage3Title,,Easy to use
+onboardingFirstPageAdvantage3Subtitle,,Seamless templates created by experts and tools for adding customized things.
+alreadyHaveAnAccount,,Already have an account? Log in
+onboardingGoalsPageTitle,,SMART Goals
+onboardingGoalsPageSubtitle,,"Boost a life with Specific, Measurable, Achievable, Relevant, and Time-bound goals. "
+onboardingHabitPageTitle,,Science-based Habits
+onboardingHabitPageSubtitle,,"Use a habit loop to build desired routines
+and a healthy lifestyle. "
+onboardingMindfulnessTitle,,Mindfulness Practices
+onboardingMindfulnessSubtitle,,"Boost your productivity and energy to improve
+every life sphere. "
+onboardingMindfulnessAdvantage1Subtitle,,"Reset your mind with breathing techniques, guided or unguided."
+onboardingMindfulnessAdvantage2Subtitle,,Wind down with sleep sounds to keep your mind relax and find more restful sleep.
+onboardingMindfulnessAdvantage3Subtitle,,Discover the collection of relax and focus sounds to deep work and reduce stress.
+getStarted,,Get started!
+focusTimer,,Focus Timer
+pomodoro,,Pomodoro
+pause,,Pause
+quit,,Quit
+resume,,Resume
+meditivityPremium,,{appName} Premium
+meditivityPremiumSubscriptionText,,"To set any time period you want, please subscribe to Premium. Find out more about how to double your achievements with all {appName} features."
+now,,Now
+later,,Later
+stop,,Stop
+play,,Play
+noConnection,,No Internet connection
+yourName,,Your name
+photo,,Photo
+loadFromGallery,,Load from gallery
+takeAPhoto,,Take a photo
+copied,,Copied
+pastItIntoYourEmailClient,,Paste it into your email client
+nameDialogSubtitle,,You are easier to find if you write a real name
+save,,Save
+emptyNameError,,The name cannot be empty
+settingsPagePlaceholderText,,Soon you'll be able to tailor {appName} to your needs.
+wantToFeelFulfilled,,Want to feel fulfilled?
+stayWithMeditivity,,Stay with {appName} to explore scientific and effective ways to boost your productivity and mindfulness.
+connectWith,,Connected with
+syncCalendar,,Sync Calendar
+changeEmail,,Change Email
+changeResetPassword,,Change/Reset Password
+deleteAccount,,Delete Account
+logOutMessage,,Are you sure you want to log out from your account?
+deleteAccountMessage,,Are you sure you want to delete your account?
+someErrorMessage,,"Oops, an error occurred. Please try one more time."
+successSubscriptionTitle,,Success
+successSubscriptionMessage,,Subscription successfully restored.
+unsuccessSubscriptionTitle,,Unsuccess
+unsuccessSubscriptionMessage,,You don't have active subscriptions to restore.
+tasksSyncMessage,,Tasks syncs only if they have target time. Habits syncs only of they have starting time and number of reminders are less or equals to 5.
+syncGoogleCalendar,,Sync Google Calendar
+unsubscripbed,,Unsubscribed
+day,,Day
+days,,Days
+currentStreak,,Current Streak
+longest,,Longest
+session,,Session
+sessions,,Sessions
+mindfulTime,,Mindful Time
+about,,About
+helpAndFeedback,,Help & Feedback
+language,,Language
+productivity,,Productivity
+synchronization,,Synchronization
+theme,,Theme
+widget,,Widget
+taskDoer,,Task Doer
+missingStepTaskTitleAndSphereOrGoal,,Please add task title and tie to sphere or goal to proceed.
+missingStepGoalTitle,,Please add goal title to proceed.
+missingStepSphereOrGoalTask,,Please tie to sphere or goal to proceed.
+taskHintText,,e.g. Buy groceries
+customTaskText1,,Add a visual tag to tie this task to a life sphere or an existing goal. It keeps life organized and balanced.
+customTaskText2,,The task is tied to the chosen goal
+setDateAndTime,,SET DATE & TIME
+time,,Time
+repetition,,Repetition
+repetitionEnds,,Repetition Ends
+replays,,Replays
+checklist,,Checklist
+typeYourTitleHere,,Type your title here...
+addSubtask,,Add subtask
+comingSoon,,Coming soon
+failure,,Failure
+itsDone,,It's done!
+targetValueHint,,Target value
+editTask,,Edit Task
+editTaskSyncMessage,,This task is not syncable with Google calendar due to missed target date or target time.
+completeTask,,Complete task
+undoComplete,,Undo complete
+editDenied,,Edit denied
+editDeniedMessage,,This task was added to your Google calendar by someone else. It can’t be edited.
+taskTitleHint,,Task Title
+habitTracker,,Habit Tracker
+achievedGoals,,Achieved goals
+buildHabits,,Build habits
+completedTasks,,Completed Tasks
+syncMessageHomePage,,"Sync was not successfully completed. Please check your internet connection, access to your calendar, and try again."
+charactersNumber,,6+ characters
+migrationPageMessage,,"While we're taking care of your data sync to ensure nothing gets lost, take care of your mind and use this couple of minutes to meditate 😊"
+premiumPage0Title,,"Double your achievements
+& boost your life"
+premiumPage1Title,,Unlimited Templates
+premiumPage1Check1,,Get full access to goal and habit templates.
+premiumPage1Check2,,Save time with detailed plans.
+premiumPage1Check3,,Enjoy beautiful icons.
+premiumPage2Title,,Full Mindfulness Library
+premiumPage2Check1,,Meditation courses and singles.
+premiumPage2Check2,,Sleep sounds that help you wind down.
+premiumPage2Check3,,Unlimited sounds for focus and relaxing.
+premiumPage3Title,,Advanced To-Do
+premiumPage3Check1,,Never miss a deadline with various reminders.
+premiumPage3Check2,,Add any repetition and the day it ends.
+premiumPage3Check3,,Take an overlook at all completed tasks.
+premiumPage4Title,,Progress & Stats
+premiumPage4Check1,,"Visualize daily, weekly, and monthly progress."
+premiumPage4Check2,,"Keep track of your goals, habits, tasks and notes."
+premiumPage4Check3,,Check pomodoro records.
+premiumPage5Title,,Customized focus timer
+premiumPage5Check1,,Tailor pomodoro time periods to your needs.
+premiumPage5Check2,,Choose any break duration you want.
+premiumPage5Check3,,Pick an end sound.
+premiumPage6Title,,Support upcoming features
+premiumPage6Check1,,"New meditations, sounds, and masterclasses."
+premiumPage6Check2,,"More goal, habit, and task templates."
+premiumPage6Check3,,Chat and community.
+payMonthly,,Pay monthly
+payYearly,,Pay yearly
+flexible,,Flexible
+popular,,Popular
+save25,,Save 25%
+tryFreeAndSubscribe,,Try free & subscribe
+month,,month
+year,,year
+try7DaysFree,,"Try 7 days free, then"
+cancelAnytime,,Cancel anytime.
+purchaseError,,Purchase error
+purchaseErrorMessage,,There some purchase error. Please try again later
+updateAppTitle,,Cool New Version
+updateAppSubtitle,,"We made improvements for you.
+Please upgrade to the latest version to continue"
+updateAppBottom,,Update is free
+volume,,Volume
+schedule,,Schedule
+reschedule,,Reschedule
+scheduled,,Scheduled
+backgroundSound,,Background Sound
+endSound,,End Sound
+shortBreak,,Short break
+longBreak,,Long break
+autoFocus,,Auto focus
+autoBreak,,Auto break
+trigger,,Trigger
+triggers,,Triggers
+timePeriod,,Time period
+reset,,Reset
+googleCalendar,,Google Calendar
+googleCalendarBottomSheetText,,Connect to get 2-way sync between {appName} and Google Calendar.
+inProgress,,In progress
+level,,Level
+yetToCome,,Yet to come
+achieved,,Achieved
+topLevel,,Top-level
+soon,,Soon
+mindfulSuccessAsALifestyle,,Mindful Success as a Lifestyle
+more,,More
+premiumCardDescription,,Upgrade and get access to all tools and content for a more fulfilling life.
+shareMeditivity,,Get a companion
+shareMeditivityDescription,,Research shows that people who have a buddy have more chances to succeed in adopting a new lifestyle than those who choose to do it alone.
+shareMeditivityMessage,,👋🏽You should try {appName}! It helps you to achieve any goal without stress. Get the app here
+support,,Support
+deleteOnlyIncomplete,,Delete only incomplete
+deleteAllHistory,,Delete all history
+no,,No
+yes,,Yes
+update,,Update
+updateOnlyTasksAndHabits,,Update only tasks and habits
+updateAll,,Update all
+editAnyway,,Edit anyway
+thisEntity,,This
+alreadyAdded,,has already been added to your to-do list.
+showOriginal,,Show original
+showLastCopy,,Show the last copy
+makeCopy,,Make a copy
+makeOneMoreCopy,,Make one more copy
+premiumContent,,Premium content
+premiumContentDescriptionGoal,,"You can see your progress history. To edit and keep working on this goal, please renew your subscription."
+premiumContentDescriptionHabit,,"You can see your progress history. To edit and keep tracking this habit, please renew your subscription."
+premiumContentDescriptionTask,,"To edit or complete this task, please renew your subscription."
+premiumContentDescriptionMeditation,,"You can see your progress history. To keep practicing this meditation, please renew your subscription."
+renewDescription,,Renew subscription
+unsavedChanges,,You have unsaved changes
+unsavedChangesMessage,,"If you go back now, your information won't be saved."
+discard,,Discard
+continueEditing,,Continue Editing
+newHabit,,New Habit
+syncFinishSuccessfully,,Sync finished successfully
+moreAbout,,More About
+permissionForStorageMessage,,Please provide access to the storage so that you can upload images
+permissionForPhotosMessage,,"Please provide access to photos, so that you can upload images"
+permissionForCameraMessage,,Please provide access to the camera in order for you to take a photo
+permissionForNotificationMessage,,Please provide access to the notifications in order for you to get reminders
+loading,,Loading...
+keyResultsNameHint,,"e.g., Save 200$ in a month"
+triggersDescriptionBuildHabit,,"Select triggers, e.g. ""I will do X after eating breakfast"". They are routine tasks that you already do on autopilot."
+triggersDescriptionBreakHabit,,"Emotional states and locations often trigger negative habits. E.g., you may overeat when you feel stressed."
+tieToLifeSphereTitle,,Tie to life sphere
+tieToLifeSphereOrGoalTitle,,Tie to life sphere or goal
+tieToLifeSphereSubtitle,,To track time you dedicate to each sphere and keep balance in life.
+chooseIcon,,Choose icon
+chooseIconDescription,,Add a visual tag that will help you organize all related tasks and habits.
+or,,Or
+condition,,Condition
+wellDone,,Well done!
+youStayFocusedFor,,You've stayed focused for
+focusDialogMessage,,The Pomodoro session helps you resist distractions and train your brains to stay focused.
+newGoal,,New Goal
+confirmAccountDialogTitle,,Please confirm your account
+confirmAccountDialogSubtitle,,"If you don't remember your password, please reset it first and then come back to change your email."
+incorrectPasswordDialogSubtitle,,The password you entered is incorrect. Please check and try again.
+introCongratulationsText,,You’ve successfully embarked on your self-improvement journey 🚀 Listen to the meditation scheduled for today. It will fuel your productivity and motivation!
+thankYou,,Thank you
+weeks,,Weeks
+week,,Week
+partTitleHint,,"e.g., Open a savings account"
+partDialogMessage,,All tasks and habits attached to this part will be deleted.
+congratsDoneTask,,CONGRATS! THE TASK IS DONE!
+congratsDoneAllTasks,,CONGRATS! ALL TASKS ARE DONE!
+setATask,,SET A TASK TO TRACK YOUR PROGRESS
+timeForAShortBreak,,Time for a short break!
+timeForALongBreak,,Time for a long break!
+timeToFocus,,Time to focus!
+premiumDone,,Watch
+preparingGoalTitle,,Preparing your Goal
+preparingGoalTile1,,Adding all tasks to the calendar
+preparingGoalTile2,,Placing the habits to the to-do list
+preparingGoalTile3,,Setting notifications and smart reminders
+goalChanged,,Goal selected
+sphereChanged,,Sphere selected
+interrupted,,Interrupted
+overall,,Overall
+deleted,,Deleted
+created,,Created
+inviteFriend,,Invite a friend
+premium,,Premium
+timeNotSetText,,Select Time to enable Reminder
+noNotificationPermissionText,,Tap to turn on notifications
+change,,Change
+viewDetails,,View details
+deepLinkRepeatActivationTitle,,The link has already been activated.
+deepLinkRepeatActivationSubtitle,,You are logged in via this link now.
+deepLinkInactiveTitle,,This link can’t be activated.
+deepLinkInactiveSubtitle,,"Please, contact the person in your team who gave you the link."
+deepLinkChangeCompanyTitle,,You are already logged in.
+deepLinkChangeCompanySubtitle,,Do you want to change your company? Your data will be lost.
+changeCompanyButton,,"Yes, I want to change it"
+companyWelcomeAdvantage1Subtitle,,"You have full access to all features, templates, and content."
+companyWelcomeAdvantage2Title,,Confidentiality
+companyWelcomeAdvantage2Subtitle,,"Your data belongs to you - we don’t share it with companies, coaches, etc."
+companyWelcomeAdvantage3Title,,Special Content
+companyWelcomeAdvantage3Subtitle,,Congrats! You have unique access to content that is not available for all.
+challengeTipTitle,,Challenge
+challengeTipDescription,,"Challenges in {appName} are open for the whole community for a limited time period, so once you see a new challenge, don't miss the opportunity to try new things, keep life variety high without putting too much pressure on yourself.
+Committing to a challenge provides the boost to get started making positive changes. The daily repetition increases your chances to adopt new desired behaviors. Every day of the challenge brings you small successes and community support which can help motivate you to keep going.
+Keep noted that not all attributes in the challenges might be edited because you want to stay in the same format with other users 😉"
+challengeDetailsLearnMoreTitle,,Challenge is the time-bound goal consisting of small tasks and changes you do alongside other participants.
+search,,Search
+filter,,Filter
+filterAction,,Filter
+sortBy,,Sort by
+status,,Status
+notStarted,,Not started
+category,,Category
+noMatchesFound,,No matches found.
+waitingToSearch,,Waiting to search through your data and templates.
+none,,None
+goalTemplates,,Goal templates
+taskTemplates,,Task templates
+habitTemplates,,Habit templates
+habitAdded,,Habit added
+goalAdded,,Goal added
+daily,,Daily
+noteTitleHint,,Add a note title
+noteTextFieldHint,,Start writing a note
+sendCopy,,Send
+untitled,,Untitled
+deleteNote,,Delete Note
+deleteNoteWarning,,All note data will be deleted.
+sortByMood,,Sort by mood
+dailyNote,,Daily note
+dailyNotes,,Daily notes
+dailyCheckIn,,Daily Check-In
+addDailyNote,,Add daily note
+customNotes,,Custom notes
+favoriteNotes,,Favorite notes
+createNotes,,Create notes
+previous,,Previous
+streakButtonText,,Great! Let’s overview exercise
+showTodaysNote,,Show today's note
+showNote,,Show note
+start,,Start
+dailyNoteTabSubtitle,,Journaling is a keystone habit that could change your life.
+dailyNoteTabSubtitleWithCalendar,,You can pick any date to see or create a note.
+dailyNoteAdvantage1Title,,Track your mood
+dailyNoteAdvantage1Subtitle,,Get regular insights and learn more about yourself.
+dailyNoteAdvantage2Title,,Reflect on a day
+dailyNoteAdvantage2Subtitle,,See what went well and want can be improved.
+dailyNoteAdvantage3Title,,Practice gratitudes
+dailyNoteAdvantage3Subtitle,,Train your mind to focus on positive things and experience greater happiness.
+dailyNoteTipText,,"Scientific studies have found that keeping daily notes reduces stress, creates order in your mind when you feel like life is scattering. Putting thoughts and feelings into words activates the prefrontal cortex which diminishes emotional reactivity and brings more calm to your life. It also helps to detach, let go of the past and see valuable insights."
+streakTitle,,Keep tracking your mood
+streakMood1,,"Things may look dark at the moment, but remember that bad times always pass."
+streakMood2,,"Even if today you feel down, try to keep your spirits up and recognize good things in life."
+streakMood3,,"Some days you may feel moderate emotions, gratitude practice helps you focus on positive things in your life."
+streakMood4,,It’s amazing to see that things are going well and you are feeling positive. Great attitude!
+streakMood5,,It’s great to see that you are enjoying your life.
+streamWithNoMood,,Text with empty mood after
+allStepsEmptyDialogTitle,,All steps are empty
+allStepsEmptyDialogText,,Please turn back and fill at least one step
+moodBottomSheetTitle,,How are you today?
+notesTabPlaceholder,,"Press + then ""note"" to write down your thoughts, insights and ideas."
+mood,,Mood
+after,,After
+before,,Before
+step2hint,,What made you feel proud? What made today great?
+step3hint,,What lessons did you learn? How could you have made today even better?
+step4hint,,"Write about people, events, or items in your life that you’re thankful for and why. What skills or abilities are you grateful to have?"
+selectMoodAfterAction,,Select mood after
+dateSet,,Date set
+taskCreatedOnSetDate,,Task is created on the set date
+noteCreated,,Note created
+close,,Close
+dayStreak,,{daysCount} Day Streak
+goalTemplate,,Goal template
+habitTemplate,,Habit template
+showTip,,Show tip
+commitGoalSubtitle,,This goal will be added to your to-do list.
+sendSubtitle,,Recommend this template to a friend.
+sphere,,Sphere
+recurringTask,,Recurring task
+showDetails,,Show details
+dailyNoteStep1,,How are you feeling today?
+dailyNoteStep2,,What went well today?
+dailyNoteStep3,,What can be improved?
+dailyNoteStep4,,List three things you are grateful for.
+dailyNoteStep5,,How are you feeling now?
+recurringTaskAccomplished,,Recurring task accomplished
+noteDeletedByUser,,Note has been deleted by user
+taskDeletedByUser,,Task has been deleted by user
+goalDeletedByUser,,Goal has been deleted by user
+habitDeletedByUser,,Habit has been deleted by user
+dontAllow,,Don't allow
+system,,System
+applicationLanguage,,Interface Language
+contentLanguage,,Content Language
+revertSettings,,Restore to Default Settings
+calendarStarts,,Week Start on
+showDetailsSubtitle,,"Show all task and habit attributes like repetition, etc."
+resetSettingsMessage,,Are you sure to restore to default settings?
+selfCare,,Self-care
+groupByType,,Group by type
+notificationsRequestTitle,,Don't procrastinate your better life
+notificationsRequestSubtitle,,Get reminders about your goals
+turnOn,,Turn on
+maybeLater,,Maybe Later
+tasksWithoutDate,,Tasks without date
+goalsWithoutDate,,Goals without target date
+notifications,,Notifications
+myDayDailyNoteCardReminderTitle,,Answer today’s journal questions
+myDayMeditationCardReminderTitle,,Practice daily meditation
+dailyNoteReminderTitle,,Daily Check-in
+dailyNoteReminderSubtitle,,Remind me to journal regularly
+showMyDayMeditationTipCardSettingsTitle,,Daily suggestions to meditate
+showMyDayMeditationTipCardSettingsSubtitle,,Show me them on the Today tab
+taskTemplate,,Task template
+cycleAndPeriod,,Cycle & Period
+cycleLength,,Cycle Length
+periodLength,,Period Length
+logPeriod,,Log Period
+menstrualPhase,,Menstrual Phase
+follicularPhase,,Follicular Phase
+ovulationPhase,,Ovulation Phase
+lutealPhase,,Luteal Phase
+delay,,Late Period
+newS,,New
+dailyInsightsAndSelfCare,,Daily Insights and Self-Care
+deleteAccountSubtitle,,"This will permanently erase all content including your tasks, habits, goals, notes, stats and progress."
+shareEssence,,Share Essence
+shareEssenceSubtitle,,Help your friends to learn more about their bodies and unlock their superpower
+passcode,,Security code
+restoreSecurityCodePageTitle,,Welcome back to {appName}
+signInToVerify,,"To reset your security code, please confirm your account."
+enablePrimarySettingTitle,,Enable Primary
+enablePrimarySettingSubtitle,,You will be able to put the most important task or habit of a day to the top of your to-do list.
+securityCodeSettingSubtitle,,You will be able to open the app with it and protect your data.
+security,,Security
+securityCodeSuccessfulResetTitle,,Your security code is reset
+securityCodeSuccessfulResetSubtitle,,You can set a new code in the settings to secure your data.
+setNewCode,,Set new code
+loggedIntoInvalidAccountMessage,,Please log in to the right account
+incorrectLoginOrPasswordMessage,,The login or password you entered is incorrect. Please check and try again.
+invalidEmail,,Invalid Email
+invalidPassword,,Invalid Password
+favorites,,Favorites
+meditations,,Meditations
+anonymousAlreadyLoggedIn,,Anonymous user already logged in
+loginCancelled,,Login cancelled by user
+linkWithAnonymousFailed,,Failed to link with anonymous account
+accountExists,,Account already exists
+dailyCheckInNotificationTitle,,Take 2 minutes of me-time
+dailyCheckInNotificationSubtitle,,Daily check-in is a simple way to take care of yourself and understand the roots of your mood changes 🌱
+logPeriodNotificationTitle,,Log your new cycle
+logPeriodNotificationSubtitle,,Don't forget to log your next period and get the forecast for each day ⏰
+latePeriodNotificationTitle,,Looks like your period is late
+latePeriodNotificationSubtitle,,Learn more about what can make your cycle irregular and how to fix it 🗓
+ovulationDayNotificationTitle,,You should be expecting ovulation
+ovulationDayNotificationSubtitle,,Your chance of getting pregnant is high 💚
+menstrualNextNotificationTitle,,Be on the lookout for your period
+menstrualNextNotificationSubtitle,,Don't forget to add a log and see how to lower period discomfort🩸
+follicularNextNotificationTitle,,The follicular phase is about to start
+follicularNextNotificationSubtitle,,Your energy levels are most likely rising. Get more insights 🚀
+ovulationNextNotificationTitle,,You are entering the ovulation phase
+ovulationNextNotificationSubtitle,,You will likely have your highest energy levels and rocking libido. Tap to learn more 💚
+lutealNextNotificationTitle,,The luteal phase will start tomorrow
+lutealNextNotificationSubtitle,,Find out how to take care of yourself and manage PMS 🤍
+myCycle,,My Cycle
+symptomsTracking,,Symptoms Tracking
+noSymptomsDataPlaceholder,,Add your symptoms for 7 days to see the trends and progress
+symptomsTrackingCardSubtitle,,Get to know your unique symptom patterns and analyze your data.
+interval,,Interval
+allTime,,All Time
+symptomsIntervalBottomSheetDescription,,Choose any interval longer than 1 week that you want to analyze.
+symptoms,,Symptoms
+mostFrequent,,Most Frequent
+symptomsBottomSheetDescription,,Выберите отобразить 6 самых частых симптомов или выберите до 6 своих
+cycleStats,,Cycle Stats
+cycleStatsDescription,,Your average cycle and period length
+cycle,,Cycle
+cycles,,Cycles
+period,,Period
+currentCycle,,Current Cycle
+emptyCyclesPlaceholderText,,Please log in your data to see predictions on your cycle
+symptomsOutsideCycle,,Symptoms outside Cycle
+unavailable,,Unavailable
+latePeriodInfoSubtitle,,
+selfRoutinesTitle,,Self-care routines for today
+selfRoutinesSubtitle,,"Add a couple of healthy activities to
+take care of yourself"
+letsBegin,,Let’s begin
+age,,Age
+personalInfo1,,Go back to add your personal info
+personalInfo2,,Your Personal Info
+sevenDayPlanReady,,Your 7-day plan is ready!
+sevenDayPlanReadySubtitle,,Complete a few daily self-care routines to feel better than ever
+whenYourBirthday,,When is your birthday?
+whenYourBirthdaySubtitle,,This information will help us to give you the most relevant recommendations
+iDontRemember,,I don't remember
+logDates,,Log your previous period dates
+logDatesSubtitle,,"Once you add the first day of your previous period, we’ll be able to show all 4 phases of your cycle"
+keepPersonalizing,,Keep personalizing
+averageLastPeriodTitle,,How many days does your period last on average?
+averageLastPeriodSubtitle,,We need to know you better to create a personalized plan and give accurate predictions
+choose3Goals,,Choose up to 3 goals that matter the most to you
+increaseEnergyLevel,,Increase energy level
+balanceMood,,Balance mood
+improveSleepQuality,,Improve sleep quality
+boostEfficiency,,Boost efficiency
+easePeriodPain,,Ease period pain
+reduceStress,,Reduce stress
+getInShape,,Get in shape
+improveSkinCondition,,Improve skin condition
+brightenSexLife,,Brighten sex life
+soundsGreat,,Sounds great!
+onboardingPage8Title,,"Follow our daily guidance on nutrition, exercise, and scheduling work activities"
+onboardingPage7Title,,Do you want to unlock the hidden strengths of each phase of your cycle?
+sure,,Sure
+great,,Great
+onboardingPage6,,Essence helps to build healthy routines that improve your well-being in a holistic way
+onboardingPage5Title,,Did you know that you can ease your symptoms without taking medicine?
+nice,,Nice
+onboardingPage4Title,,Our experts are here to help you learn more about your body throughout your cycle
+onboardingPage3Title,,Are you aware that your menstrual cycle affects your overall well-being?
+essence,,Essence
+essenceBenefit1,,Supported by nonprofits that aim to close the gender gap
+essenceBenefit2,,We respect your data and don't sell it
+essenceBenefit3,,Made by a diverse team and scientists
+onboardingPage1Title,,Transform your periods into your superpower
+onboardingPage1Subtitle,,Science-based way to feel great and turn your cycle into a productivity tool
+preparingGoalPageTitle,,Preparing your science-based well-being plan
+preparingGoalPageChecklist1,,Tailoring daily insights
+preparingGoalPageChecklist2,,Selecting self-care routines
+preparingGoalPageChecklist3,,Improving cycle predictions
+selectedCycle,,Selected Cycle
+times,,Times
+symptomStats,,Symptom Stats
+phase,,Phase
+selectedSymptom,,Selected Symptom
+lastCycle,,Last Cycle
+tracking,,Tracking
+noSymptoms,,There are no symptoms
+loremIpsum,,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque fringilla lectus eget pulvinar dapibus. Donec at sem id enim eleifend."
+andMore,,and more...
+timeAlgorithmSuggestedMsg,,We have suggested {time} as the most suitable time for you.
+dateAlgorithmSuggestedMsg,,We have suggested {date} as the most suitable date for you.
+planning,,Planning
+organizing,,Organizing
+reflection,,Reflection
+study,,Study
+complexTask,,Complex task
+newProject,,New project
+creativity,,Creativity
+networking,,Networking
+publicSpeaking,,Public speaking
+focused,,Focused
+administrative,,Administrative
+tediousWork,,Tedious Work
+noLoggedOrLatePeriodTitle,,No logged periods or late period
+noLoggedOrLatePeriodMsg,,"We have found that you have no logged periods or have late period. Because of this, the prognosis will be poor. Please write down your current period to better predict."
+workingTime,,Working Time
+workingDays,,Working Days
+allDay,,All Day
+workingTimePickerMsg1,,It's great that you all make it! It is possible that for big goals you need a little more time!
+workingTimePickerMsg2,,Please be careful with such a busy schedule. Burnout and problems in other areas of life can be caused by constant overwork!
+workingTimePickerMsg3,,You have {hours} hours of work time. We wish you productive work!
+smartAlgorithms,,Smart Algorithms
+taskNotificationMsg,,It's {name} time!
+cantFindOptimalDate,,Can't find optimal date
+cantFindOptimalTime,,Can't find optimal time
+moreInfo,,More info
+intelligentScheduling,,Intelligent Scheduling
