@@ -126,7 +126,7 @@ void main() async {
 
   for (var locale in locales) {
     final content = arb(locale);
-    final filename = "$locale.arb";
+    final filename = "intl_$locale.arb";
     var file = File("${directory.path}/$filename");
     print("Writing $filename...");
     await file.writeAsString(content);
